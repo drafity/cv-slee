@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -66,5 +66,3 @@ image = "https://pbs.twimg.com/media/CkYXU2lW0AAGkND.jpg:large"
 caption = "A schematic diagram of MRN"
 
 +++
-
-SotA of non-attention models

@@ -32,7 +32,7 @@ weight = 5
 
 # Biography
 
-Accidently make a homepage. Will update later.
+He is a Research Scientist at Clova AI Research since July 2018. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
 
 <!-- Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->
 

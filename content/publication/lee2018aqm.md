@@ -15,7 +15,7 @@ abstract_short = ""
 
 image_preview = ""
 
-selected = true
+selected = false
 
 projects = []
 
@@ -31,7 +31,7 @@ url_source = ""
 
 math = true
 
-highlight = false
+highlight = true
 
 [header]
 image = "https://pbs.twimg.com/media/CkYXU2lW0AAGkND.jpg:large"

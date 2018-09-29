@@ -1,5 +1,5 @@
 +++
-title = "Multimodal Residual Learning for Visual QA"
+title = "Multimodal Residual Learning for Visual QA?"
 
 date = "2016-12-05"
 
@@ -15,7 +15,7 @@ abstract_short = ""
 
 image_preview = ""
 
-selected = true
+selected = false
 
 projects = []
 

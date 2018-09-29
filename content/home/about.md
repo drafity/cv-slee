@@ -10,26 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Machine Learning",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Continual Learning"
+    "Multi-modal Learning"
+    "Task-oriented Dialog System"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Computer Science and Engineering"
+  institution = "Seoul National University"
+  year = 2018
+
+[[education.courses]]
+  course = "BSc in Computer Science and Engineering"
+  institution = "Seoul National University"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 

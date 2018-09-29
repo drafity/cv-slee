@@ -31,7 +31,7 @@ url_source = ""
 
 math = true
 
-highlight = true
+highlight = false
 
 [header]
 image = "https://pbs.twimg.com/media/CkYXU2lW0AAGkND.jpg:large"

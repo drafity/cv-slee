@@ -24,7 +24,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "BSc in Computer Science and Engineering"
+  course = "BSc in Computer Science and Engineering / Brain-Mind-Behavior (minor)"
   institution = "Seoul National University"
   year = 2012
  

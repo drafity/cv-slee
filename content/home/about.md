@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Machine Learning",
     "Artificial Intelligence",
-    "Continual Learning"
-    "Multi-modal Learning"
+    "Continual Learning",
+    "Multi-modal Learning",
     "Task-oriented Dialog System"
   ]
 

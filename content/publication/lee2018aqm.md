@@ -1,7 +1,7 @@
 +++
 title = "Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog"
 
-date = "2016-12-04"
+date = "2018-09-21"
 
 
 authors = ["Jin-Hwa Kim", "Sang-Woo Lee", "Donghyun Kwak", "Min-Oh Heo", "Jeonghee Kim", "Jung-Woo Ha", "Byoung-Tak Zhang"]

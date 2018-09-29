@@ -27,6 +27,11 @@ weight = 5
   course = "BSc in Computer Science and Engineering / Brain-Mind-Behavior (minor)"
   institution = "Seoul National University"
   year = 2012
+  
+[[education.courses]]
+  course = "BSc in Brain-Mind-Behavior (Minor)"
+  institution = "Seoul National University"
+  year = 2012
  
 +++
 

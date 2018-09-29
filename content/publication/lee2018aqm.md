@@ -1,5 +1,5 @@
 +++
-title = "Multimodal Residual Learning for Visual QA?"
+title = "Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog"
 
 date = "2016-12-05"
 
@@ -34,9 +34,8 @@ math = true
 highlight = true
 
 [header]
-image = "https://pbs.twimg.com/media/CkYXU2lW0AAGkND.jpg:large"
-caption = "A schematic diagram of MRN"
+image = ""
+caption = ""
 
 +++
 
-SotA of non-attention models

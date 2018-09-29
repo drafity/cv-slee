@@ -1,3 +1,4 @@
++++
 title = "Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog"
 date = "2018-12-04"
 authors = ["Sang-Woo Lee", "Yu-jung Heo", "Byoung-Tak Zhang"]
@@ -28,7 +29,7 @@ math = true
 highlight = true
 
 [header]
-image = "https://pbs.twimg.com/media/CkYXU2lW0AAGkND.jpg:large"
-caption = "A schematic diagram of MRN"
+image = "" 
+caption = ""
 
 +++

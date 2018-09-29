@@ -1,4 +1,5 @@
 +++
+
 title = "Overcoming Catastrophic Forgetting by Incremental Moment Matching"
 
 date = "2017-12-04"
@@ -22,3 +23,5 @@ url_code = "https://github.com/btjhjeon/IMM_tensorflow"
 math = false
 
 highlight = true
+
++++

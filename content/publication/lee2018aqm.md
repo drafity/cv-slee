@@ -33,10 +33,6 @@ math = true
 
 highlight = true
 
-[header]
-image = "https://pbs.twimg.com/media/CkYXU2lW0AAGkND.jpg:large"
-caption = "A schematic diagram of MRN"
 
 +++
 
-SotA of non-attention models

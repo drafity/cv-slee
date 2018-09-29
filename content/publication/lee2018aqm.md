@@ -4,7 +4,8 @@ title = "Answerer in Questioner's Mind: Information Theoretic Approach to Goal-O
 date = "2018-09-21"
 
 
-authors = ["Jin-Hwa Kim", "Sang-Woo Lee", "Donghyun Kwak", "Min-Oh Heo", "Jeonghee Kim", "Jung-Woo Ha", "Byoung-Tak Zhang"]
+authors = ["Sang-Woo Lee", "Yu-jung Heo", "Byoung-Tak Zhang"]
+
 
 
 publication_types = ["1"]
@@ -12,7 +13,7 @@ publication_types = ["1"]
 publication = "In *Advances In Neural Information Processing Systems 31*"
 publication_short = "In *NIPS*"
 
-abstract = "Deep neural networks continue to advance the state-of-the-art of image recognition tasks with various methods. However, applications of these methods to multimodality remain limited. We present Multimodal Residual Networks (MRN) for the multimodal residual learning of visual question-answering, which extends the idea of the deep residual learning. Unlike the deep residual learning, MRN effectively learns the joint representation from visual and language information. The main idea is to use element-wise multiplication for the joint residual mappings exploiting the residual learning of the attentional models in recent studies. Various alternative models introduced by multimodality are explored based on our study. We achieve the state-of-the-art results on the Visual QA dataset for both Open-Ended and Multiple-Choice tasks. Moreover, we introduce a novel method to visualize the attention effect of the joint representations for each learning block using back-propagation algorithm, even though the visual features are collapsed without spatial information."
+abstract = "Goal-oriented dialog has been given attention due to its numerous applications in artificial intelligence. Goal-oriented dialogue tasks occur when a questioner asks an action-oriented question and an answerer responds with the intent of letting the questioner know a correct action to take. To ask the adequate question, deep learning and reinforcement learning have been recently applied. However, these approaches struggle to find a competent recurrent neural questioner, owing to the complexity of learning a series of sentences. Motivated by theory of mind, we propose "Answerer in Questioner's Mind" (AQM), a novel algorithm for goal-oriented dialog. With AQM, a questioner asks and infers based on an approximated probabilistic model of the answerer. The questioner figures out the answerer's intention via selecting a plausible question by explicitly calculating the information gain of the candidate intentions and possible answers to each question. We test our framework on two goal-oriented visual dialog tasks: "MNIST Counting Dialog" and "GuessWhat?!." In our experiments, AQM outperforms comparative algorithms by a large margin."
 abstract_short = ""
 
 image_preview = ""

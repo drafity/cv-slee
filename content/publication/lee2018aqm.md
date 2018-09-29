@@ -22,14 +22,14 @@ selected = false
 
 projects = []
 
-url_pdf = "http://papers.nips.cc/paper/6446-multimodal-residual-learning-for-visual-qa.pdf"
-url_preprint = "http://arxiv.org/abs/1606.01455"
-url_code = "https://github.com/jnhwkim/nips-mrn-vqa"
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/1802.03881"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=fsQNAptltn8"
-url_poster = "https://goo.gl/jOAh7g"
+url_video = ""
+url_poster = ""
 url_source = ""
 
 math = true

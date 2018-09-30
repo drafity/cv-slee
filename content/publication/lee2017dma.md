@@ -1,6 +1,6 @@
 +++
 
-title = "Dual-memory neural networks for modeling cognitive activities of humans via wearable sensors"
+title = "Dual-memory Neural Networks for Modeling Cognitive Activities of Humans via Wearable Sensors"
 
 date = "2017-08"
 
@@ -16,7 +16,7 @@ abstract = "Wearable devices, such as smart glasses and watches, allow for conti
 
 selected = false
 
-url_preprint = "http://static.naver.net/clova/service/clova_ai/research/publications/Dual-memory.neural.networks.for.modeling.cognitive.activities.of.humans.via.wearable.sensors.pdf"
+url_pdf = "http://static.naver.net/clova/service/clova_ai/research/publications/Dual-memory.neural.networks.for.modeling.cognitive.activities.of.humans.via.wearable.sensors.pdf"
 
 math = false
 

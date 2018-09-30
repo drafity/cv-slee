@@ -2,7 +2,7 @@
 
 title = "Dual memory architectures for lifelong learning of everyday human behaviors"
 
-date = "2016-07"
+date = "2016-07-12"
 
 authors = ["Sang-Woo Lee", "Chung-Yeon Lee", "Dong-Hyun Kwak", "Jiwon Kim", "Jeonghee Kim", and "Byoung-Tak Zhang"]
 

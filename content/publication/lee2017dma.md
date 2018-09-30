@@ -2,7 +2,7 @@
 
 title = "Dual-memory Neural Networks for Modeling Cognitive Activities of Humans via Wearable Sensors"
 
-date = "2017-08"
+date = "2017-08-01"
 
 authors = ["Sang-Woo Lee", "Chung-Yeon Lee", "Dong-Hyun Kwak", "Jung-Woo Ha", "Jeonghee Kim", "Byoung-Tak Zhang"]
 

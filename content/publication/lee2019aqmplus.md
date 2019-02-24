@@ -2,7 +2,7 @@
 
 title = "Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation"
 
-date = "2019-02-25"
+date = "2019-02-22"
 
 authors = ["Sang-Woo Lee", "Tong Gao", "Sohee Yang", "Jaejun Yoo", "Jung-Woo Ha"]
 

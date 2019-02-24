@@ -17,6 +17,7 @@ abstract = "Goal-oriented dialog has been given attention due to its numerous ap
 selected = false
 
 url_preprint = "https://arxiv.org/abs/1802.03881"
+url_pdf = "https://papers.nips.cc/paper/7524-answerer-in-questioners-mind-information-theoretic-approach-to-goal-oriented-visual-dialog.pdf"
 
 math = false
 

@@ -17,6 +17,7 @@ abstract = "Answerer in Questioner's Mind (AQM) is an information-theoretic fram
 selected = false
 
 url_preprint = "https://openreview.net/forum?id=rkgT3jRct7"
+url_code = "https://github.com/naver/aqm-plus"
 
 math = false
 

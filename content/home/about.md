@@ -32,7 +32,8 @@ weight = 5
   course = "BSc in Brain-Mind-Behavior (Minor)"
   institution = "Seoul National University"
   year = 2012
- 
+
+<!--
 [interestssssss]
   interests = [
     "Machine Learning",
@@ -41,6 +42,7 @@ weight = 5
     "Multi-modal Learning",
     "Task-oriented Dialog System"
   ]
+-->
 
 +++
 
@@ -49,6 +51,7 @@ weight = 5
 He is a Research Scientist at Clova AI Research since July 2018. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
 He received Korean Presidential Science Scholarship from 2008 to 2012.
 
+<!--
 <h3>Teaching Experience</h3>
 <ul>
   <li>TA, Introduction to Deep Learning, Seoul National University, 2018</li>
@@ -56,3 +59,4 @@ He received Korean Presidential Science Scholarship from 2008 to 2012.
   <li>TA, Machine Learning / Machine Learning Practice, Samsung Advanced Technology Training Institute, 2014</li>
   <li>TA, Artificial Intelligence, Seoul National University, 2013</li>  
 </ul>
+-->

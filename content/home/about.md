@@ -33,6 +33,15 @@ weight = 5
   institution = "Seoul National University"
   year = 2012
  
+[interestssssss]
+  interests = [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Continual Learning",
+    "Multi-modal Learning",
+    "Task-oriented Dialog System"
+  ]
+
 +++
 
 # Biography

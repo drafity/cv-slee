@@ -37,6 +37,6 @@ weight = 5
 
 # Biography
 
-He is a Research Scientist at Clova AI Research since July 2018. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
+I am a Research Scientist at Clova AI Research since July 2018. I am also a Founder and currently Technical Leader of DUET, an AI ARS project (https://www.facebook.com/watch/?v=869775540087683). In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
 He received Korean Presidential Science Scholarship from 2008 to 2012.
 

@@ -37,6 +37,6 @@ weight = 5
 
 # Biography
 
-He is a Research Scientist at Clova AI Research since July 2018. He is also the Founder and currently a Technical Leader of DUET, an AI ARS project [[demo](https://www.facebook.com/watch/?v=869775540087683)] [[news](https://www.theverge.com/2019/6/27/18760928/line-conference-2019-score-sticker-vision-mini-app-tokyo)]. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
+He is a Research Scientist at [Clova AI Research](https://clova.ai/ko/research/research-areas.html) since July 2018. He is also the Founder and currently a Technical Leader of DUET, an AI ARS project [[demo](https://www.facebook.com/watch/?v=869775540087683)] [[video](https://www.youtube.com/watch?v=SwZLp5Y-Z4g)] [[news](https://www.theverge.com/2019/6/27/18760928/line-conference-2019-score-sticker-vision-mini-app-tokyo)]. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
 He received Korean Presidential Science Scholarship from 2008 to 2012.
 

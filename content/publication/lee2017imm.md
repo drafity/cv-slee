@@ -16,8 +16,8 @@ abstract = "Catastrophic forgetting is a problem of neural networks that loses t
 
 selected = false
 
-url_pdf = "http://papers.nips.cc/paper/7051-overcoming-catastrophic-forgetting-by-incremental-moment-matching.pdf"
-url_preprint = "https://arxiv.org/abs/1703.08475"
+url_pdf = "http://papers.nips.cc/paper/7051-overcoming-catastrophic-forgetting-by-incremental-moment-matching.pdf"  
+url_preprint = "https://arxiv.org/abs/1703.08475"  
 url_code = "https://github.com/btjhjeon/IMM_tensorflow"
 
 math = false

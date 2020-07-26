@@ -4,7 +4,7 @@ title = "ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Spee
 
 date = "2020-05-17"
 
-authors = ["Jung-Woo Ha*", "Kihyun Nam*", "Jingu Kang", "Sang-Woo Lee", "Sohee Yang", "Hyunhoon Jung", "Eunmi Kim", "Hyeji Kim", "Soojin Kim", "Hyun Ah Kim", "Kyoungtae Doh", "Chan Kyu Lee", "Nako Sung", "Sunghun Kim"]
+authors = ["Jung-Woo Ha* ", "Kihyun Nam*", "Jingu Kang", "Sang-Woo Lee", "Sohee Yang", "Hyunhoon Jung", "Eunmi Kim", "Hyeji Kim", "Soojin Kim", "Hyun Ah Kim", "Kyoungtae Doh", "Chan Kyu Lee", "Nako Sung", "Sunghun Kim"]
 
 publication_types = ["1"]
 

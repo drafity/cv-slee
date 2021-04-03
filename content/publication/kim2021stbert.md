@@ -2,7 +2,7 @@
 
 title = "ST-BERT: Cross-modal Language Model Pre-training For End-to-end Spoken Language Understanding"
 
-date = "2021-06-06"
+date = "2021-01-01"
 
 authors = ["Minjeong Kim", "Gyuwan Kim", "Sang-Woo Lee", "Jung-Woo Ha"]
 

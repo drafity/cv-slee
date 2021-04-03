@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
+    "Natural Language Processing",
     "Task-oriented Dialog System"
   ]
 
@@ -34,6 +35,6 @@ weight = 5
 
 # Biography
 
-He is currently a Technical Leader of [NAVER AI LAB](https://clova.ai/ko/research/research-areas.html) NLP Group and a Technical Leader of Conversation Team in [Contact Center AI (CCAI)](https://clova.ai/aicontactcenter), Naver. When he joined Naver in July 2018, He found and became the first member of DUET, an AI ARS project which is extended to CCAI project now [[demo_jp](https://www.facebook.com/watch/?v=869775540087683)] [[demo_kr](https://www.youtube.com/watch?v=j0NaNx8RjNo&t=5s)] [[video](https://www.youtube.com/watch?v=SwZLp5Y-Z4g)]  [[news](https://www.theverge.com/2019/6/27/18760928/line-conference-2019-score-sticker-vision-mini-app-tokyo)] in Naver and Line. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
+He is currently the Leader of Language Research Team, [NAVER AI LAB](https://clova.ai/ko/research/research-areas.html) NLP Group, and one of the Technical Leaders of Conversation Team, NLP modeling group for chatbots, callbots, and large-scale NLU models, in Naver. His recent research interests include task-oriented dialogue, large-scale language models (GPT-3 scale), and a variety of other NLP tasks. When he joined Naver in July 2018, He found and became the first member of DUET, an AI ARS project which is extended to [Contact Center AI (CCAI)](https://clova.ai/aicontactcenter) project now (AiCall, CareCall, ...) [[demo_jp](https://www.facebook.com/watch/?v=869775540087683)] [[demo_kr](https://www.youtube.com/watch?v=j0NaNx8RjNo&t=5s)] [[video](https://www.youtube.com/watch?v=SwZLp5Y-Z4g)]  [[news](https://www.theverge.com/2019/6/27/18760928/line-conference-2019-score-sticker-vision-mini-app-tokyo)] in Naver and Line. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor Byoung-Tak Zhang. In 2012, he received Bachelor of Engineering degree from Seoul National University.
 He received Korean Presidential Science Scholarship from 2008 to 2012.
 

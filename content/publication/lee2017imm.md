@@ -4,7 +4,7 @@ title = "Overcoming Catastrophic Forgetting by Incremental Moment Matching"
 
 date = "2017-12-04"
 
-authors = ["Sang-Woo Lee", "Jin-Hwa Kim", "Jaehyun Jun", "Jung-Woo Ha", "Byoung-Tak Zhang"]
+authors = ["**Sang-Woo Lee**", "Jin-Hwa Kim", "Jaehyun Jun", "Jung-Woo Ha", "Byoung-Tak Zhang"]
 
 publication_types = ["1"]
 

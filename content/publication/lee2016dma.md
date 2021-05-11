@@ -4,7 +4,7 @@ title = "Dual memory architectures for lifelong learning of everyday human behav
 
 date = "2016-07-12"
 
-authors = ["Sang-Woo Lee", "Chung-Yeon Lee", "Dong-Hyun Kwak", "Jiwon Kim", "Jeonghee Kim", "Byoung-Tak Zhang"]
+authors = ["**Sang-Woo Lee**", "Chung-Yeon Lee", "Dong-Hyun Kwak", "Jiwon Kim", "Jeonghee Kim", "Byoung-Tak Zhang"]
 
 publication_types = ["1"]
 

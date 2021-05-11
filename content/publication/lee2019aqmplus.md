@@ -4,7 +4,7 @@ title = "Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Ge
 
 date = "2019-05-09"
 
-authors = ["Sang-Woo Lee", "Tong Gao", "Sohee Yang", "Jaejun Yoo", "Jung-Woo Ha"]
+authors = ["**Sang-Woo Lee**", "Tong Gao", "Sohee Yang", "Jaejun Yoo", "Jung-Woo Ha"]
 
 publication_types = ["1"]
 

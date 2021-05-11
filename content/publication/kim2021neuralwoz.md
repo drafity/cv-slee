@@ -4,7 +4,7 @@ title = "NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based S
 
 date = "2021-05-11"
 
-authors = ["Sungdong Kim", "Minsuk Chang", "Sang-Woo Lee"]
+authors = ["Sungdong Kim", "Minsuk Chang", "**Sang-Woo Lee**"]
 
 publication_types = ["1"]
 

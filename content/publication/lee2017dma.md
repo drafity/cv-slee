@@ -4,7 +4,7 @@ title = "Dual-memory Neural Networks for Modeling Cognitive Activities of Humans
 
 date = "2017-08-01"
 
-authors = ["Sang-Woo Lee", "Chung-Yeon Lee", "Dong-Hyun Kwak", "Jung-Woo Ha", "Jeonghee Kim", "Byoung-Tak Zhang"]
+authors = ["**Sang-Woo Lee**", "Chung-Yeon Lee", "Dong-Hyun Kwak", "Jung-Woo Ha", "Jeonghee Kim", "Byoung-Tak Zhang"]
 
 publication_types = ["2"]
 

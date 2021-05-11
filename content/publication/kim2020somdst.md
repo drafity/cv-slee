@@ -4,7 +4,7 @@ title = "Efficient Dialogue State Tracking by Selectively Overwriting Memory"
 
 date = "2020-05-04"
 
-authors = ["Sungdong Kim", "Sohee Yang", "Gyuwan Kim", "Sang-Woo Lee"]
+authors = ["Sungdong Kim", "Sohee Yang", "Gyuwan Kim", "**Sang-Woo Lee**"]
 
 publication_types = ["1"]
 

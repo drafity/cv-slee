@@ -4,7 +4,7 @@ title = "Answerer in Questioner's Mind: Information Theoretic Approach to Goal-O
 
 date = "2018-09-21"
 
-authors = ["Sang-Woo Lee", "Yu-jung Heo", "Byoung-Tak Zhang"]
+authors = ["**Sang-Woo Lee**", "Yu-jung Heo", "Byoung-Tak Zhang"]
 
 publication_types = ["1"]
 

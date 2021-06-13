@@ -40,6 +40,6 @@ He received Korean Presidential Science Scholarship from 2008 to 2012.
 
 <h3>Latest News</h3>
 <ul>
-  <li>(21/05/23) Announcing Korean GPT-3 at Naver AI Now - [<a href="https://naver-ai-now.kr/">link</a>]</li>
-  <li>(21/05/05) 3 papers and 2 findings papers are accepted at ACL 2021 from Language Research and Conversation team.</li>
+  <li>(21/05/23) Announcing Korean GPT-3 at Naver AI Now. [<a href="https://naver-ai-now.kr/">link</a>]</li>
+  <li>(21/05/05) 3 papers and 2 findings papers are accepted at ACL 2021 from Language Research and Conversation team. [<a href="https://naver-career.gitbook.io/en/publications/nlp-and-speech">link</a>]</li>
 </ul>

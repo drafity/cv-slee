@@ -4,12 +4,11 @@ title = "What Changes Can Large-scale Language Models Bring? Intensive Study on 
 
 date = "2021-08-26"
 
-authors = ["Boseop Kim*", "HyoungSeok Kim*", "**Sang-Woo Lee** *", "Gichang Lee", "Donghyun Kwak", "Dong Hyeon Jeon", "Sunghyun Park", "Sungju Kim", "Seonhoon Kim", "Dongpil Seo", "Heungsub Lee", "Minyoung Jeong", "Sungjae Lee", "Minsub Kim", "Suk Hyun Ko", "Seokhun Kim", "Taeyong Park", "Jinuk Kim", "Soyoung Kang", "Na-Hyeon Ryu", "Kang Min Yoo", "Minsuk Chang", "Soobin Suh", "Sookyo In", "Jinseong Park", "Kyungduk Kim", "Hiun Kim", "Jisu Jeong", "Yong Goo Yeo", "Donghoon Ham", "Dongju Park", "Min Young Lee", "Jaewook Kang", "Inho Kang", "Jung-Woo Ha", "Woomyoung Park", "Nako Sung"]
-
+authors = ["Boseop Kim*", "HyoungSeok Kim*"]
 
 publication_types = ["1"]
 
-publication = "In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing*"
+publication = "*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing*"
 
 publication_short = "In *EMNLP* (to appear)"
 

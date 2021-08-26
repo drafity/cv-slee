@@ -4,7 +4,7 @@ title = "What Changes Can Large-scale Language Models Bring? Intensive Study on 
 
 date = "2021-08-25"
 
-authors = ["Sungdong Kim", "Minsuk Chang", "**Sang-Woo Lee**"]
+authors = ["Boseop Kim* ", "HyoungSeok Kim* ", "**Sang-Woo Lee** *", "Gichang Lee", "Donghyun Kwak", "Dong Hyeon Jeon", "Sunghyun Park", "Sungju Kim", "Seonhoon Kim", "Dongpil Seo", "Heungsub Lee", "Minyoung Jeong", "Sungjae Lee", "Minsub Kim", "Suk Hyun Ko", "Seokhun Kim", "Taeyong Park", "Jinuk Kim", "Soyoung Kang", "Na-Hyeon Ryu", "Kang Min Yoo", "Minsuk Chang", "Soobin Suh", "Sookyo In", "Jinseong Park", "Kyungduk Kim", "Hiun Kim", "Jisu Jeong", "Yong Goo Yeo", "Donghoon Ham", "Dongju Park", "Min Young Lee", "Jaewook Kang", "Inho Kang", "Jung-Woo Ha", "Woomyoung Park", "Nako Sung"]
 
 publication_types = ["1"]
 

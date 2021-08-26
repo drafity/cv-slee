@@ -4,7 +4,7 @@ title = "What Changes Can Large-scale Language Models Bring? Intensive Study on 
 
 date = "2021-08-25"
 
-authors = ["Boseop Kim*", "HyoungSeok Kim*"]
+authors = ["Boseop Kim", "HyoungSeok Kim"]
 
 publication_types = ["1"]
 

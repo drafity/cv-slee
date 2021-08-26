@@ -20,6 +20,10 @@ math = false
 
 highlight = true
 
+url_pdf = "https://aclanthology.org/2021.acl-long.287.pdf"  
+url_preprint = "https://arxiv.org/abs/2105.14454" 
+url_code = "https://github.com/naver-ai/neuralwoz"
+
 
 +++
 

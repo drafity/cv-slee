@@ -4,7 +4,7 @@ title = "GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation"
 
 date = "2021-08-25"
 
-authors = ["Kang Min Yoo", "Dongju Park", "Jaewook Kang", "**Sang-woo Lee**", "Woomyeong Park"]
+authors = ["Kang Min Yoo", "Dongju Park", "Jaewook Kang", "**Sang-Woo Lee**", "Woomyeong Park"]
 
 publication_types = ["1"]
 

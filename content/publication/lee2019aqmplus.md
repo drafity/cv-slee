@@ -17,9 +17,9 @@ abstract = "Answerer in Questioner's Mind (AQM) is an information-theoretic fram
 selected = false
 
 url_pdf = "https://openreview.net/pdf?id=rkgT3jRct7"  
-url_code = "https://github.com/naver/aqm-plus"
-url_poster = "https://drive.google.com/open?id=1C7oWVIHTra8is8O-AggOCQqn1SlrVnOm"
-url_slide = "https://drive.google.com/open?id=1ZNn_NbivkSDE9wjItl4FPGi1X3jestTI"
+url_code = "https://github.com/naver/aqm-plus"  
+url_poster = "https://drive.google.com/open?id=1C7oWVIHTra8is8O-AggOCQqn1SlrVnOm"  
+url_slide = "https://drive.google.com/open?id=1ZNn_NbivkSDE9wjItl4FPGi1X3jestTI"  
 
 math = false
 

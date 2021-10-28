@@ -40,6 +40,9 @@ He received Korean Presidential Science Scholarship from 2008 to 2012.
 
 <h3>Latest News</h3>
 <ul>
-<li>(21/05/23.) Announcing Korean GPT-3 at Naver AI Now. [<a href="https://naver-ai-now.kr/">link</a>]</li>
+<li>(21/10/26) 7 sessions from Conversation and Langauge Research will be presented in <a href="https://stg.deview.kr/2021">DEVIEW 2021</a>.</li>
+<li>(21/10/11) 1 dataset track paper (<a href="https://arxiv.org/abs/2105.09680">KLUE</a>) is accepted at NeurIPS 2021 from Language Research with co-working. </li>
+<li>(21/08/23) 2 regular papers (<a href="https://arxiv.org/abs/2109.04650">HyperCLOVA</a>, <a href="https://arxiv.org/abs/2109.07154">BioLAMA</a>) and 2 findings papers (<a href="https://arxiv.org/abs/2104.08826">GPT3Mix</a>, <a href="https://arxiv.org/abs/2004.06698">SGL-KT</a>) are accepted at EMNLP 2021 from Language Research and Conversation team (including co-work). </li>
+<li>(21/05/23) Announcing Korean GPT-3 at Naver AI Now. [<a href="https://naver-ai-now.kr/">link</a>]</li>
 <li>(21/05/05) 3 regular papers (<a href="https://arxiv.org/abs/2105.14454">NeuralWOZ</a>, <a href="https://arxiv.org/abs/2106.07345">Self-Guided CL</a>, <a href="https://arxiv.org/abs/2010.07003">LAT</a>) and 2 findings papers (<a href="https://arxiv.org/abs/2106.08062">SSMix</a>, <a href="https://arxiv.org/abs/2106.09983">LOUVRE</a>) are accepted at ACL 2021 from Language Research and Conversation team (including co-work). [<a href="https://naver-career.gitbook.io/en/publications/nlp-and-speech">link</a>]</li>
 </ul>

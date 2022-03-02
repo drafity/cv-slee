@@ -2,7 +2,7 @@
 
 title = "Continual Plug-and-Adapt for CuQA"
 
-date = "2022-03-15"
+date = "2022-03-01"
 
 authors = ["Kyungjae Lee", "Wookje Han", "Seung-Won Hwang", "Hwaran Lee", "Joonsuk Park", "**Sang-Woo Lee**"]
 

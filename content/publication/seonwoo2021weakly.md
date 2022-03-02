@@ -2,7 +2,7 @@
 
 title = "Weakly Supervised Pre-Training for Multi-Hop Retriever"
 
-date = "2022-03-15"
+date = "2022-03-01"
 
 authors = ["Yeon Seonwoo", "Juhee Son", "Jiho Jin", "**Sang-Woo Lee**", "Ji-Hoon Kim", "Jung-Woo Ha", "Alice Oh"]
 

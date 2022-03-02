@@ -13,7 +13,7 @@ publication = "Findings of ACL"
 
 publication_short = "In Findings of ACL (to appear)"
 
-abstract = ""
+abstract = "."
 
 selected = false
 

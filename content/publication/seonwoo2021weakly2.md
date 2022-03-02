@@ -1,6 +1,6 @@
 +++
 
-title = "Weakly Supervised Pre-Training for Multi-Hop Retriever"
+title = "Two-Step Question Retrieval for Open-Domain QA"
 
 date = "2022-03-01"
 

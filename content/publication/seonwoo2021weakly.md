@@ -20,8 +20,8 @@ math = false
 
 highlight = true
 
-url_preprint = "https://arxiv.org/abs/2106.09983"
-url_pdf = "https://aclanthology.org/2021.findings-acl.62.pdf"
+url_pdf = "https://aclanthology.org/2021.findings-acl.62.pdf"  
+url_preprint = "https://arxiv.org/abs/2106.09983"  
 url_code = "https://github.com/yeonsw/LOUVRE"
 
 +++

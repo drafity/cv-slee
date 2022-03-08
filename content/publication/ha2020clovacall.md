@@ -16,8 +16,16 @@ abstract = "Automatic speech recognition (ASR) via call is essential for various
 
 selected = false
 
+url_pdf = "https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/1136.pdf"
 url_preprint = "https://arxiv.org/abs/2004.09367"
 url_dataset = "https://github.com/ClovaAI/ClovaCall"
+url_code = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
 
 math = false
 

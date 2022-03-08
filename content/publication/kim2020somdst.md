@@ -16,8 +16,10 @@ abstract = "Recent works in dialogue state tracking (DST) focus on an open vocab
 
 selected = false
 
-url_preprint = "https://arxiv.org/pdf/1911.03906.pdf"
+url_preprint = "https://arxiv.org/pdf/1911.03906.pdf"  
+url_pdf = "https://aclanthology.org/2020.acl-main.53.pdf"
 url_code = "https://github.com/clovaai/som-dst"
+
 
 math = false
 

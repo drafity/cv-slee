@@ -20,8 +20,14 @@ math = false
 
 highlight = true
 
-url_preprint = "https://arxiv.org/abs/2109.04650"
 url_pdf = "https://aclanthology.org/2021.emnlp-main.274.pdf"
+url_preprint = "https://arxiv.org/abs/2109.04650"  
+url_code = ""
+url_project = ""
+url_slides = "/files/HyperCLOVA-KoreanGPT3_20211013_emnlp_v005.pdf"
+url_video = ""
+url_poster = "/files/EMNLP21_poster_HyperCLOVA_v8.pdf"
+url_source = ""
 
 +++
 

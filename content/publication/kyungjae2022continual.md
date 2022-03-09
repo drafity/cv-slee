@@ -9,9 +9,9 @@ authors = ["Kyungjae Lee", "Wookje Han", "Seung-Won Hwang", "Hwaran Lee", "Joons
 
 publication_types = ["1"]
 
-publication = "Findings of ACL"
+publication = "*Findings of ACL*"
 
-publication_short = "In Findings of ACL (to appear)"
+publication_short = "In *Findings of ACL* (to appear)"
 
 abstract = "."
 

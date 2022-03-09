@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "sang.woo.lee@navercorp.com"
+    link = "mailto:sang.woo.lee@navercorp.com"
 
 #  [[params.social]]
 #    icon = "twitter"

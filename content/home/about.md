@@ -40,6 +40,7 @@ He received Korean Presidential Science Scholarship from 2008 to 2012.
 
 <h3>Latest News</h3>
 <ul>
+<li>(22/03/04) Start a lecture, <a href="https://ai599.github.io/spring-2022/">Special Topics in Machine Learning : Deep Learning and Real-world Applications</a> (KAIST GSAI Spring 2022, AI599). </li>
 <li>(22/03/01) 2 findings papers are accepted at ACL 2022 from Langauge Research and Conversation team (including co-work).</li>
 <li>(21/10/26) 7 sessions from Conversation and Langauge Research will be presented in <a href="https://deview.kr/2021">DEVIEW 2021</a>.</li>
 <li>(21/10/11) 1 dataset track paper (<a href="https://arxiv.org/abs/2105.09680">KLUE</a>) is accepted at NeurIPS 2021 from Language Research with co-working. </li>

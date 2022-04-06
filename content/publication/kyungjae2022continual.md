@@ -1,6 +1,6 @@
 +++
 
-title = "Continual Plug-and-Adapt for CuQA"
+title = "Plug-and-Play Adaptation for Continuously-updated QA"
 
 date = "2022-03-01"
 

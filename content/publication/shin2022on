@@ -2,7 +2,7 @@
 
 title = "On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model"
 
-date = "2022-04-27"
+date = "2022-04-01"
 
 authors = ["Seongjin Shin* ", "**Sang-Woo Lee** *", "Hwijeen Ahn", "Sungdong Kim", "HyoungSeok Kim", "Boseop Kim", "Kyunghyun Cho", "Gichang Lee", "Woomyoung Park", "Jung-Woo Ha"]
 

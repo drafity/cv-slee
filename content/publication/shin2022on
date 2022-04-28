@@ -1,0 +1,33 @@
++++
+
+title = "On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model"
+
+date = "2022-04-28"
+
+authors = ["Seongjin Shin* ", "**Sang-Woo Lee** *", "Hwijeen Ahn", "Sungdong Kim", "HyoungSeok Kim", "Boseop Kim", "Kyunghyun Cho", "Gichang Lee", "Woomyoung Park", "Jung-Woo Ha"]
+
+publication_types = ["1"]
+
+publication = "*Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics*"
+
+publication_short = "In *NAACL* (to appear)"
+
+abstract = "."
+
+selected = false
+
+math = false
+
+highlight = true
+
+url_pdf = ""
+url_preprint = ""  
+url_code = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
++++
+

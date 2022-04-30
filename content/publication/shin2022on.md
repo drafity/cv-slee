@@ -20,7 +20,7 @@ math = false
 
 highlight = true
 
-url_preprint = "https://openreview.net/forum?id=rxg53XfHZq"
+url_preprint = "https://arxiv.org/abs/2204.13509"
 
 +++
 

@@ -21,7 +21,7 @@ math = false
 
 highlight = true
 
-url_pdf = "https://aclanthology.org/2022.findings-acl.37.pdf"
+url_pdf = "https://aclanthology.org/2022.findings-acl.37.pdf"  
 url_preprint = "https://arxiv.org/abs/2204.12785"
 
 

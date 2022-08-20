@@ -22,7 +22,7 @@ highlight = true
 
 url_pdf = "https://aclanthology.org/2022.naacl-main.155.pdf"  
 url_preprint = "https://openreview.net/forum?id=BAgegCiZrZ9"    
-url_dataset = "https://github.com/naver-ai/carecall-corpus"
+url_dataset = "https://github.com/naver-ai/carecall-corpus"  
 url_code = ""  
 url_project = ""  
 url_slides = ""  

@@ -20,7 +20,7 @@ math = false
 
 highlight = true
 
-url_pdf = "https://aclanthology.org/2022.naacl-main.380.pdf". 
+url_pdf = "https://aclanthology.org/2022.naacl-main.380.pdf"  
 url_preprint = "https://arxiv.org/abs/2204.13509"
 
 +++

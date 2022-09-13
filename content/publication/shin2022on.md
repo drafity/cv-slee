@@ -4,7 +4,7 @@ title = "On the Effect of Pretraining Corpora on In-context Learning by a Large-
 
 date = "2022-07-10"
 
-authors = ["Seongjin Shin* ", "**Sang-Woo Lee** *", "Hwijeen Ahn", "Sungdong Kim", "HyoungSeok Kim", "Boseop Kim", "Kyunghyun Cho", "Gichang Lee", "Woomyoung Park", "Jung-Woo Ha"]
+authors = ["Seongjin Shin* ", "**Sang-Woo Lee** *", "Hwijeen Ahn", "Sungdong Kim", "HyoungSeok Kim", "Boseop Kim", "Kyunghyun Cho", "Gichang Lee", "Woomyoung Park", "Jung-Woo Ha", "Nako Sung"]
 
 publication_types = ["1"]
 

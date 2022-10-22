@@ -2,7 +2,7 @@
 
 title = "Keep Me Updated! Memory Management in Long-term Conversations"
 
-date = "2022-10-22"
+date = "2022-10-21"
 
 authors = ["Sanghwan Bae", "Donghyun Kwak", "Soyoung Kang", "Min Young Lee", "Sungdong Kim", "Yuin Jeong", "Hyeri Kim", "**Sang-Woo Lee**", "Woomyoung Park", "Nako Sung"]
 

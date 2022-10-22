@@ -10,9 +10,9 @@ authors = ["Junyeob Kim*", "Kang Min Yoo*^", "Hyuhng Joon Kim", "Hyunsoo Cho", "
 
 publication_types = ["1"]
 
-publication = "*Findings of the Association for Computational Linguistics: EMNLP 2022*"
+publication = "*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing*"
 
-publication_short = "In *Findings of EMNLP* (to appear)"
+publication_short = "In *EMNLP* (to appear)"
 
 abstract = "Despite recent explosion of interests in in-context learning (ICL), the underlying mechanism and the precise impact of the quality of demonstrations remain elusive.
 Intuitively, ground-truth labels should have as much impact in in-context learning as supervised learning, but Min et al. recently reported that the input-label correspondence is significantly less important than previously thought.

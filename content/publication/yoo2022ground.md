@@ -5,7 +5,7 @@ title = "Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstratio
 
 date = "2022-10-21"
 
-authors = ["Junyeob Kim *", "Kang Min Yoo *^", "Hyuhng Joon Kim", "Hyunsoo Cho", "Hwiyeol Jo", "**Sang-Woo Lee**", "Sang-goo Lee", "Taeuk Kim^"]
+authors = ["Kang Min Yoo *^", "Junyeob Kim *", "Hyuhng Joon Kim", "Hyunsoo Cho", "Hwiyeol Jo", "**Sang-Woo Lee**", "Sang-goo Lee", "Taeuk Kim^"]
 
 
 publication_types = ["1"]

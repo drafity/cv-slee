@@ -10,9 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning",
-    "Natural Language Processing",
-    "Task-oriented Dialog System"
+    "Large-scale Language Models",
+    "Natural Language Processing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,15 +34,5 @@ weight = 5
 
 # Biography
 
-He is currently the leader of Language Research team, which is the NLP group of [NAVER AI LAB](https://naver-career.gitbook.io/en/publications/all), and the technical leader of Conversation team, which is a NLP modeling group of NAVER CLOVA for chatbots, callbots, and large-scale NLU models. He has also been an adjunct professor at [KAIST Kim Jaechul Graduate School of AI (KAIST AI)](http://gsai.kaist.ac.kr/) since Oct 2021. His recent research interests include task-oriented dialogue, large-scale language models (GPT-3 scale), and a variety of other NLP tasks. When he joined Naver in July 2018, he founded and became the first member of DUET, an AI ARS project which is now extended to [Contact Center AI (CCAI)](https://clova.ai/aicontactcenter) project (AiCall, CareCall, ...) [[demo_jp](https://www.facebook.com/watch/?v=869775540087683)] [[demo_kr](https://www.youtube.com/watch?v=j0NaNx8RjNo&t=5s)] [[video](https://www.youtube.com/watch?v=SwZLp5Y-Z4g)]  [[news](https://www.theverge.com/2019/6/27/18760928/line-conference-2019-score-sticker-vision-mini-app-tokyo)] in Naver and Line. 
+He is currently serving as a project leader at NAVER Cloud, where his primary focues lies in large-scale language models, specifically [HyperCLOVA](https://clova.ai/hyperclova) (NAVER's LLM). Previously, he was the team leader of Language Research team, which is the NLP group of [NAVER AI LAB](https://naver-career.gitbook.io/en/publications/all), and the technical leader of Conversation team, which is an NLP modeling group responsible for developing projects such as Carecall, HyperCLOVA, AiCall, and others at NAVER CLOVA. He joined NAVER in July 2018 and played a pivotal role in the establishment of the AI ARS project. As the project's first member, he spearheaded its development, and it has since evolved into [AiCall](https://clova.ai/aicontactcenter) [[demo_jp](https://www.facebook.com/watch/?v=869775540087683)] [[demo_kr](https://www.youtube.com/watch?v=j0NaNx8RjNo&t=5s)] [[video](https://www.youtube.com/watch?v=SwZLp5Y-Z4g)]  [[news](https://www.theverge.com/2019/6/27/18760928/line-conference-2019-score-sticker-vision-mini-app-tokyo)] in Naver and Line.
 
-<h3>Latest News</h3>
-<ul>
-  <li>(22/10/07) 4 regular papers and 3 findings papers are accepted at EMNLP 2022 from Language Research and Conversation team (including co-work).</li>
-  <li>(22/09/16) 1 regular paper (<a href="https://arxiv.org/abs/2205.13445">MID</a>) is accepted at NeurIPS 2022 from Language Research team with co-working.
-  <li>(22/04/08) 3 regular papers (<a href="https://arxiv.org/abs/2204.13509">HyperCLOVA Corpus</a>, <a href="https://arxiv.org/abs/2205.00176">CareCall</a>, <a href="https://arxiv.org/abs/2104.07284">VAT-D</a>) and 1 findings paper (<a href="https://arxiv.org/abs/2205.02035">MFMA</a>) are accepted at NAACL 2022 from Langauge Research and Conversation team (including co-work).</li>
-<li>(22/03/04) Start a lecture, <a href="https://ai599.github.io/spring-2022/">Special Topics in Machine Learning : Deep Learning and Real-world Applications</a>, at KAIST AI (Spring 2022, AI599). </li>
-  <li>(22/03/01) 2 findings papers (<a href="https://arxiv.org/abs/2204.12785">CuQA</a>, <a href="https://arxiv.org/abs/2205.09393">SQuID</a>) are accepted at ACL 2022 from Langauge Research and Conversation team (including co-work).</li>
-<li>(21/10/26) 7 sessions from Conversation and Langauge Research will be presented in <a href="https://deview.kr/2021">DEVIEW 2021</a>.</li>
-<li>(21/10/11) 1 dataset track paper (<a href="https://arxiv.org/abs/2105.09680">KLUE</a>) is accepted at NeurIPS 2021 from Language Research team with co-working. </li>
-</ul>
